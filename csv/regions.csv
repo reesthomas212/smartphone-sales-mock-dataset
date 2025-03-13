@@ -1,0 +1,45 @@
+id,country,continent,population_m,gdp_per_capita,tech_adoption_rate
+1001,Japan,Asia,125.8,48000,0.85
+1002,United States,North America,345.0,82000,0.9
+1003,Germany,Europe,83.2,54000,0.88
+1004,Brazil,South America,203.0,11000,0.7
+1005,India,Asia,1425.0,3000,0.45
+1006,China,Asia,1410.0,14000,0.8
+1007,South Korea,Asia,51.3,51000,0.92
+1008,Nigeria,Africa,223.0,2000,0.4
+1009,United Kingdom,Europe,67.4,46000,0.87
+1010,France,Europe,65.0,49000,0.86
+1011,Canada,North America,38.5,58000,0.89
+1012,Australia,Oceania,26.0,64000,0.91
+1013,Russia,Europe,144.0,12000,0.65
+1014,Mexico,North America,126.0,11000,0.68
+1015,South Africa,Africa,60.0,7000,0.6
+1016,Indonesia,Asia,279.0,2500,0.55
+1017,Italy,Europe,58.5,37000,0.83
+1018,Spain,Europe,47.0,42000,0.84
+1019,Thailand,Asia,71.0,7500,0.67
+1020,Egypt,Africa,105.0,4000,0.5
+1021,Argentina,South America,45.0,9000,0.66
+1022,Turkey,Asia,85.0,10500,0.62
+1023,Saudi Arabia,Asia,36.0,28000,0.75
+1024,Pakistan,Asia,241.0,1800,0.38
+1025,Vietnam,Asia,98.0,4500,0.6
+1026,Philippines,Asia,115.0,3400,0.58
+1027,Malaysia,Asia,33.0,13000,0.72
+1028,Singapore,Asia,5.8,78000,0.95
+1029,Netherlands,Europe,17.5,52000,0.89
+1030,Sweden,Europe,10.4,59000,0.9
+1031,Norway,Europe,5.4,82000,0.92
+1032,Switzerland,Europe,8.7,67000,0.91
+1033,Poland,Europe,38.0,14000,0.7
+1034,Ukraine,Europe,44.0,4500,0.45
+1035,Colombia,South America,51.0,8000,0.65
+1036,Chile,South America,19.0,17000,0.73
+1037,Peru,South America,34.0,6500,0.55
+1038,Bangladesh,Asia,171.0,1500,0.42
+1039,Kenya,Africa,54.0,3000,0.48
+1040,Ghana,Africa,31.0,3500,0.52
+1041,Morocco,Africa,37.0,4500,0.57
+1042,Algeria,Africa,44.0,3500,0.47
+1043,New Zealand,Oceania,5.0,54000,0.88
+1044,Ireland,Europe,5.0,62000,0.9
