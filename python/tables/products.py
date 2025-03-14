@@ -4,9 +4,15 @@ from static_data import products
 
 class Products:
 
-    """Description"""
+    """
 
-    def __init__(self, filename: str = "products.csv"):
+    Products Dataset Module
+    ---------------
+    GOAL: Assemble this table of product data based on AI-generated static data.
+
+    """
+
+    def __init__(self, filename: str = "csv/products.csv"):
         self.filename = filename
         self.data = None
 

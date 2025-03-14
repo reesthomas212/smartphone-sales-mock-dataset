@@ -4,9 +4,15 @@ from static_data import regions
 
 class Regions:
 
-    """Description"""
+    """
 
-    def __init__(self, filename: str = "regions.csv"):
+    Regions Dataset Module
+    ---------------
+    GOAL: Assemble this table of regions data based on AI-generated static data.
+
+    """
+
+    def __init__(self, filename: str = "csv/regions.csv"):
         self.filename = filename
         self.data = None
 

@@ -4,9 +4,15 @@ from static_data import channels
 
 class Channels:
 
-    """Description"""
+    """
 
-    def __init__(self, filename: str = "channels.csv"):
+    Channels Dataset Module
+    ---------------
+    GOAL: Assemble this table of sales channels data based on AI-generated static data.
+
+    """
+
+    def __init__(self, filename: str = "csv/channels.csv"):
         self.filename = filename
         self.data = None
 
