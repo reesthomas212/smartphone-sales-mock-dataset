@@ -3,7 +3,8 @@
 A simple Python project to generate mock tech sales data.
 
 ## Structure
-- `python/tables/`: Contains data table definitions (channels, products, regions, sales)
+- `python/csv/`: Contains generated data (channels, products, regions, sales)
+- `python/tables/`: Contains data table definitions and creation logic (channels, products, regions, sales)
 - `python/create_tech_dataset.py`: Main script to generate the dataset
 - `python/static_data.py`: Static data definitions
 
